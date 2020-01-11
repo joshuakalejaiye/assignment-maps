@@ -1,7 +1,7 @@
 # assignment-maps
-flood fill algorithm-driven console program in C# with the ability to load maps in, flood them and observe the flow based on the water level value that the user inputs.
+Flood fill algorithm-driven console program in C# with the ability to load maps in, flood them and observe the flow based on the water level value that the user inputs.
 
-the program reads in text files of a size 9 x 9, and allows the user to simulate a flood of a specific numerical height.
+The program reads in text files of a size 9 x 9, and allows the user to simulate a flood of a specific numerical height.
 An example of one such map: 
 
             map1.txt
