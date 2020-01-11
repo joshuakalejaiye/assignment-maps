@@ -16,4 +16,4 @@ An example of one such map:
 285 279 270 268 266 275 279 284 291
 285 279 270 266 271 276 279 285 290
 
-Three have been included in th files above
+Three example maps have been included in the files above, have fun.
